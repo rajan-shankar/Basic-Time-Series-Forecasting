@@ -1,2 +1,2 @@
 # Basic-Time-Series-Forecasting
-Basic time series techniques to forecast the number of visitors into a country. Holt-Winters exponential smoothing.
+Basic time series techniques to forecast the number of visitors into a country. I compare the effectiveness of two multiplicative Holt-Winters smoothing techniques---one with damping and one without. I comment on time series decomposition plots, residual plots and auto-correlation function plots. I completed this project as part of my QBUS2820 (Predictive Analytics) unit.
